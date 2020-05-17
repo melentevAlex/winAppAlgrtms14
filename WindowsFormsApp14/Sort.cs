@@ -9,6 +9,7 @@ namespace WindowsFormsApp14
 {
     public class Sort
     {
+        //sttjybxv
         private GenerateArray ga;
         private int[] countArr1;
 
